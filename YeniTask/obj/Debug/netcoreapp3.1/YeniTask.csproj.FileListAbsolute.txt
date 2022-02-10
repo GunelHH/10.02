@@ -1,0 +1,13 @@
+/Users/gunelhesenova/Projects/YeniTask/YeniTask/bin/Debug/netcoreapp3.1/YeniTask.deps.json
+/Users/gunelhesenova/Projects/YeniTask/YeniTask/bin/Debug/netcoreapp3.1/YeniTask.runtimeconfig.json
+/Users/gunelhesenova/Projects/YeniTask/YeniTask/bin/Debug/netcoreapp3.1/YeniTask.runtimeconfig.dev.json
+/Users/gunelhesenova/Projects/YeniTask/YeniTask/bin/Debug/netcoreapp3.1/YeniTask.dll
+/Users/gunelhesenova/Projects/YeniTask/YeniTask/bin/Debug/netcoreapp3.1/YeniTask.pdb
+/Users/gunelhesenova/Projects/YeniTask/YeniTask/obj/Debug/netcoreapp3.1/YeniTask.csproj.AssemblyReference.cache
+/Users/gunelhesenova/Projects/YeniTask/YeniTask/obj/Debug/netcoreapp3.1/YeniTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunelhesenova/Projects/YeniTask/YeniTask/obj/Debug/netcoreapp3.1/YeniTask.AssemblyInfoInputs.cache
+/Users/gunelhesenova/Projects/YeniTask/YeniTask/obj/Debug/netcoreapp3.1/YeniTask.AssemblyInfo.cs
+/Users/gunelhesenova/Projects/YeniTask/YeniTask/obj/Debug/netcoreapp3.1/YeniTask.csproj.CoreCompileInputs.cache
+/Users/gunelhesenova/Projects/YeniTask/YeniTask/obj/Debug/netcoreapp3.1/YeniTask.dll
+/Users/gunelhesenova/Projects/YeniTask/YeniTask/obj/Debug/netcoreapp3.1/YeniTask.pdb
+/Users/gunelhesenova/Projects/YeniTask/YeniTask/obj/Debug/netcoreapp3.1/YeniTask.genruntimeconfig.cache
